@@ -1,22 +1,22 @@
 {
   "sidebar": {
-    "appname": "Vendor System",
-    "welcome": "Welcome"
+    "appname": "Sistem Vendor",
+    "welcome": "Selamat datang"
   },
   "menu": {
-    "dashboard": "Dashboard",
+    "dashboard": "Dasbor",
     "vendor": "Vendor",
-    "procurement": "Procurement",
-    "sourcing": "Sourcing",
-    "contract": "Contract",
-    "sanction": "Sanction"
+    "procurement": "Pengadaan",
+    "sourcing": "Pengadaan",
+    "contract": "Kontrak",
+    "sanction": "Sangsi"
   },
   "dashboard": {
-    "title": "Dashboard",
-    "welcome": "Welcome to Vendor Management System"
+    "title": "Dasbor",
+    "welcome": "Selamat datang di Sistem Manajemen Vendor"
   },
   "common": {
-    "logout": "Logout"
+    "logout": "Keluar"
   },
   "login": {
     "title": "Login",
@@ -25,21 +25,21 @@
     "button": "Login"
   },
   "vendor": {
-    "title": "Vendor List",
-    "subtitle": "Create Vendor",
-    "button.create": "Create Vendor",
-    "button.update": "Update Vendor",
-    "search": "Search vendor...",
-    "name": "Name",
+    "title": "Daftar Vendor",
+    "subtitle": "Buat Vendor",
+    "button.create": "Buat Vendor",
+    "button.update": "Ubah Vendor",
+    "search": "Cari vendor...",
+    "name": "Nama",
     "email": "Email",
-    "edit": "Edit",
-    "delete": "Delete",
-    "approve": "Approve",
-    "reject": "Reject",
-    "previous": "Previous",
-    "page": "Page",
-    "of": "Of",
-    "next": "Next",
-    "test": "What"
+    "edit": "Ubah",
+    "delete": "Hapus",
+    "approve": "Setuju",
+    "reject": "Tolak",
+    "previous": "Sebelumnya",
+    "page": "Halaman",
+    "of": "Dari",
+    "next": "Selanjutnya",
+    "test": "Apa yak"
   }
 }
