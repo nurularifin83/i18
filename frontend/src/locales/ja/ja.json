@@ -1,33 +1,33 @@
 {
   "sidebar": {
-    "appname": "Vendor System",
-    "welcome": "Welcome"
+    "appname": "ベンダーシステム",
+    "welcome": "ようこそ"
   },
   "menu": {
-    "dashboard": "Dashboard",
-    "vendor": "Vendor",
-    "procurement": "Procurement",
-    "sourcing": "Sourcing",
-    "contract": "Contract",
-    "sanction": "Sanction"
+    "dashboard": "ダッシュボード",
+    "vendor": "ベンダー",
+    "procurement": "調達",
+    "sourcing": "調達",
+    "contract": "契約",
+    "sanction": "制裁"
   },
   "dashboard": {
-    "title": "Dashboard",
-    "welcome": "Welcome to Vendor Management System"
+    "title": "ダッシュボード",
+    "welcome": "ベンダー管理システムへようこそ"
   },
   "common": {
-    "logout": "Logout"
+    "logout": "ログアウト"
   },
   "login": {
-    "title": "Login",
-    "email": "Email",
-    "password": "Password",
-    "button": "Login"
+    "title": "ログイン",
+    "email": "メール",
+    "password": "パスワード",
+    "button": "ログイン"
   },
   "vendor": {
-    "title": "Vendor List",
-    "subtitle": "Create Vendor",
-    "button.create": "Create Vendor",
+    "title": "ベンダーリスト",
+    "subtitle": "ベンダーを作成する",
+    "button.create": "ベンダーを作成する",
     "button.update": "Update Vendor",
     "search": "Search vendor...",
     "name": "Name",
