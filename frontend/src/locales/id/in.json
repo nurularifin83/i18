@@ -1,0 +1,22 @@
+{
+  "sidebar": {
+    "appname": "Sistem Vendor",
+    "welcome": "Selamat Datang"
+  },
+
+  "dashboard": {
+    "title": "Dasbor",
+    "welcome": "Selamat Datang di Sistem Vendor"
+  },
+
+  "common": {
+    "logout": "Keluar"
+  },
+
+  "login": {
+    "title": "Masuk",
+    "email": "Email",
+    "password": "Kata Sandi",
+    "button": "Masuk"
+  }
+}

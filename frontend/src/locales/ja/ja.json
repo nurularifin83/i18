@@ -1,0 +1,26 @@
+{
+  "sidebar": {
+    "appname": "ベンダーシステム",
+    "welcome": "ようこそ"
+  },
+  "menu": {
+    "dashboard": "ダッシュボード",
+    "vendor": "ベンダー"
+  },
+
+  "dashboard": {
+    "title": "ダッシュボード",
+    "welcome": "ベンダー管理システムへようこそ"
+  },
+
+  "common": {
+    "logout": "ログアウト"
+  },
+
+  "login": {
+    "title": "ログイン",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "button": "ログイン"
+  }
+}

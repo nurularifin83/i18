@@ -1,0 +1,49 @@
+{
+  "sidebar": {
+    "appname": "Vendor System",
+    "welcome": "Welcome"
+  },
+
+  "menu": {
+    "dashboard": "Dashboard",
+    "vendor": "Vendor",
+    "procurement": "Procurement",
+    "sourcing": "Sourcing",
+    "contract": "Contract",
+    "sanction": "Sanction"
+  },
+
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to Vendor Management System"
+  },
+
+  "common": {
+    "logout": "Logout"
+  },
+
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "button": "Login"
+  },
+
+  "vendor": {
+    "title": "Vendor List",
+    "subtitle": "Create Vendor",
+    "button.create": "Create Vendor",
+    "button.update": "Update Vendor",
+    "search": "Search vendor...",
+    "name": "Name",
+    "email": "Email",
+    "edit": "Edit",
+    "delete": "Delete",
+    "approve": "Approve",
+    "reject": "Reject",
+    "previous": "Previous",
+    "page": "Page",
+    "of": "Of",
+    "next": "Next"
+  }
+}
