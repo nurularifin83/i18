@@ -1,11 +1,11 @@
 {
   "sidebar": {
-    "appname": "dasdsa",
-    "welcome": "dsadsa"
+    "appname": "Sistem Vendor",
+    "welcome": "Selamat datang"
   },
   "menu": {
-    "dashboard": "dsada",
-    "vendor": "dsadsadsa",
+    "dashboard": "Dasbord",
+    "vendor": "Vendor",
     "procurement": "dsadsadsa",
     "sourcing": "dsadsadsa",
     "contract": "dsadsa",
@@ -40,6 +40,6 @@
     "page": "Nurul",
     "of": "dsadas",
     "next": "Nurul",
-    "test": "dsadas"
+    "test": "Apa"
   }
 }
