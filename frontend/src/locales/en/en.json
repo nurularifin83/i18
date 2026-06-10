@@ -3,7 +3,6 @@
     "appname": "Vendor System",
     "welcome": "Welcome"
   },
-
   "menu": {
     "dashboard": "Dashboard",
     "vendor": "Vendor",
@@ -12,23 +11,19 @@
     "contract": "Contract",
     "sanction": "Sanction"
   },
-
   "dashboard": {
     "title": "Dashboard",
     "welcome": "Welcome to Vendor Management System"
   },
-
   "common": {
     "logout": "Logout"
   },
-
   "login": {
     "title": "Login",
     "email": "Email",
     "password": "Password",
     "button": "Login"
   },
-
   "vendor": {
     "title": "Vendor List",
     "subtitle": "Create Vendor",
@@ -44,6 +39,7 @@
     "previous": "Previous",
     "page": "Page",
     "of": "Of",
-    "next": "Next"
+    "next": "Next",
+    "test": "What"
   }
 }
