@@ -1,22 +1,45 @@
 {
   "sidebar": {
-    "appname": "Sistem Vendor",
-    "welcome": "Selamat Datang"
+    "appname": "dasdsa",
+    "welcome": "dsadsa"
   },
-
+  "menu": {
+    "dashboard": "dsada",
+    "vendor": "dsadsadsa",
+    "procurement": "dsadsadsa",
+    "sourcing": "dsadsadsa",
+    "contract": "dsadsa",
+    "sanction": "dsadsa"
+  },
   "dashboard": {
-    "title": "Dasbor",
-    "welcome": "Selamat Datang di Sistem Vendor"
+    "title": "dsadsadsa",
+    "welcome": "dsadsa"
   },
-
   "common": {
-    "logout": "Keluar"
+    "logout": "dsadsa"
   },
-
   "login": {
-    "title": "Masuk",
-    "email": "Email",
-    "password": "Kata Sandi",
-    "button": "Masuk"
+    "title": "Arifin",
+    "email": "dsadasdsadsa",
+    "password": "Arifin",
+    "button": "dadasd"
+  },
+  "vendor": {
+    "title": "Arifin",
+    "subtitle": "136487",
+    "button.create": "Arifin",
+    "button.update": "136487",
+    "search": "Arifin",
+    "name": "136487",
+    "email": "Nurul",
+    "edit": "136487",
+    "delete": "Nurul",
+    "approve": "136487",
+    "reject": "Nurul",
+    "previous": "136487",
+    "page": "Nurul",
+    "of": "dsadas",
+    "next": "Nurul",
+    "test": "dsadas"
   }
 }
