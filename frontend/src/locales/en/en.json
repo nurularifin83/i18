@@ -1,15 +1,15 @@
 {
   "sidebar": {
-    "appname": "Sistem Vendor",
-    "welcome": "Selamat datang"
+    "appname": "Vendor System",
+    "welcome": "Welcome"
   },
   "menu": {
-    "dashboard": "Dasbor",
+    "dashboard": "Dashboard",
     "vendor": "Vendor",
-    "procurement": "Pengadaan",
+    "procurement": "Procurement",
     "sourcing": "Sourcing",
-    "contract": "Kontrak",
-    "sanction": "Sangsi"
+    "contract": "Contract",
+    "sanction": "Sanction"
   },
   "dashboard": {
     "title": "Dashboard",
@@ -40,6 +40,6 @@
     "page": "Page",
     "of": "Of",
     "next": "Next",
-    "test": "Apa yak"
+    "test": "What"
   }
 }
