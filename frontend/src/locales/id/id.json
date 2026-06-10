@@ -1,45 +1,45 @@
 {
   "sidebar": {
-    "appname": "dasdsa",
-    "welcome": "dsadsa"
+    "appname": "Sistem Vendor",
+    "welcome": "Selamat datang"
   },
   "menu": {
-    "dashboard": "dsada",
-    "vendor": "dsadsadsa",
-    "procurement": "dsadsadsa",
-    "sourcing": "dsadsadsa",
-    "contract": "dsadsa",
-    "sanction": "dsadsa"
+    "dashboard": "Dasbor",
+    "vendor": "Vendor",
+    "procurement": "Pengadaan",
+    "sourcing": "Pengadaan",
+    "contract": "Kontrak",
+    "sanction": "Sangsi"
   },
   "dashboard": {
-    "title": "dsadsadsa",
-    "welcome": "dsadsa"
+    "title": "Dasbor",
+    "welcome": "Selamat datang di Sistem Manajemen Vendor"
   },
   "common": {
-    "logout": "dsadsa"
+    "logout": "Logout"
   },
   "login": {
-    "title": "Arifin",
-    "email": "dsadasdsadsa",
-    "password": "Arifin",
-    "button": "dadasd"
+    "title": "Login",
+    "email": "Email",
+    "password": "Kata Sandi",
+    "button": "Login"
   },
   "vendor": {
-    "title": "Arifin",
-    "subtitle": "136487",
-    "button.create": "Arifin",
-    "button.update": "136487",
-    "search": "Arifin",
-    "name": "136487",
-    "email": "Nurul",
-    "edit": "136487",
-    "delete": "Nurul",
-    "approve": "136487",
-    "reject": "Nurul",
-    "previous": "136487",
-    "page": "Nurul",
-    "of": "dsadas",
-    "next": "Nurul",
-    "test": "dsadas"
+    "title": "Vendor List",
+    "subtitle": "Buat Vendor",
+    "button.create": "Buat Vendor",
+    "button.update": "Ubah Vendor",
+    "search": "Cari Vendor...vvv",
+    "name": "Nama",
+    "email": "Email",
+    "edit": "Ubah",
+    "delete": "Hapus",
+    "approve": "Persetujuan",
+    "reject": "Tolak",
+    "previous": "Sebelumnya",
+    "page": "Halaman",
+    "of": "dari",
+    "next": "Selanjutnya",
+    "test": "Apa"
   }
 }

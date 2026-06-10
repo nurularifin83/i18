@@ -1,45 +1,45 @@
 {
   "sidebar": {
-    "appname": "Vendor System",
-    "welcome": "Welcome"
+    "appname": "ベンダーシステム",
+    "welcome": "ようこそ"
   },
   "menu": {
-    "dashboard": "Dashboard",
-    "vendor": "Vendor",
-    "procurement": "Procurement",
-    "sourcing": "Sourcing",
-    "contract": "Contract",
-    "sanction": "Sanction"
+    "dashboard": "ダッシュボード",
+    "vendor": "ベンダー",
+    "procurement": "調達",
+    "sourcing": "調達",
+    "contract": "契約",
+    "sanction": "制裁"
   },
   "dashboard": {
-    "title": "Dashboard",
-    "welcome": "Welcome to Vendor Management System"
+    "title": "ダッシュボード",
+    "welcome": "ベンダー管理システムへようこそ"
   },
   "common": {
-    "logout": "Logout"
+    "logout": "ログアウト"
   },
   "login": {
-    "title": "Login",
-    "email": "Email",
-    "password": "Password",
-    "button": "Login"
+    "title": "ログイン",
+    "email": "メール",
+    "password": "パスワード",
+    "button": "ログイン"
   },
   "vendor": {
-    "title": "Vendor List",
-    "subtitle": "Create Vendor",
-    "button.create": "Create Vendor",
-    "button.update": "Update Vendor",
-    "search": "Search vendor...",
-    "name": "Name",
-    "email": "Email",
-    "edit": "Edit",
-    "delete": "Delete",
-    "approve": "Approve",
-    "reject": "Reject",
-    "previous": "Previous",
-    "page": "Page",
-    "of": "Of",
-    "next": "Next",
-    "test": "What"
+    "title": "ベンダーリスト",
+    "subtitle": "ベンダーを作成する",
+    "button.create": "ベンダーを作成する",
+    "button.update": "ベンダーの更新",
+    "search": "ベンダーを検索…",
+    "name": "名前",
+    "email": "メール",
+    "edit": "編集",
+    "delete": "削除",
+    "approve": "承認する",
+    "reject": "拒否する",
+    "previous": "前へ",
+    "page": "ページ",
+    "of": "の",
+    "next": "次",
+    "test": "何"
   }
 }
