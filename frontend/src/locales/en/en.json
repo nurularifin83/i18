@@ -1,15 +1,15 @@
 {
   "sidebar": {
-    "appname": "Vendor System",
-    "welcome": "Welcome"
+    "appname": "Sistem Vendor",
+    "welcome": "Selamat datang"
   },
   "menu": {
-    "dashboard": "Dashboard",
+    "dashboard": "Dasbor",
     "vendor": "Vendor",
-    "procurement": "Procurement",
+    "procurement": "Pengadaan",
     "sourcing": "Sourcing",
-    "contract": "Contract",
-    "sanction": "Sanction"
+    "contract": "Kontrak",
+    "sanction": "Sangsi"
   },
   "dashboard": {
     "title": "Dashboard",
@@ -32,14 +32,14 @@
     "search": "Search vendor...",
     "name": "Name",
     "email": "Email",
-    "edit": "Edit",
-    "delete": "Delete",
+    "edit": "Ubah",
+    "delete": "Hapus",
     "approve": "Approve",
     "reject": "Reject",
-    "previous": "Previous",
-    "page": "Page",
-    "of": "Of",
+    "previous": "Sebelumnya",
+    "page": "Halaman",
+    "of": "Dari",
     "next": "Next",
-    "test": "What"
+    "test": "Apa yak"
   }
 }
