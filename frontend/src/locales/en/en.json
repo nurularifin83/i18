@@ -1,10 +1,10 @@
 {
   "sidebar": {
     "appname": "Vendor System",
-    "welcome": "Welcome"
+    "welcome": "Selamat datang"
   },
   "menu": {
-    "dashboard": "Dashboard",
+    "dashboard": "Dasbor",
     "vendor": "Vendor",
     "procurement": "Procurement",
     "sourcing": "Sourcing",
@@ -40,6 +40,6 @@
     "page": "Page",
     "of": "Of",
     "next": "Next",
-    "test": "What"
+    "test": "Apa yak"
   }
 }
